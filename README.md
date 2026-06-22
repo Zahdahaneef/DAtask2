@@ -7,7 +7,7 @@ This project is a simple Grade Calculator built using Python. It takes user inpu
 * Accepts user input for marks (0–100)
 * Validates input using a loop
 * Assigns grades based on score:
-* 
+ 
 * 🟢 A (90–100)
 * 🔵 B (80–89)
 * 🟡 C (70–79)
@@ -16,7 +16,7 @@ This project is a simple Grade Calculator built using Python. It takes user inpu
 
 * Displays motivational messages for each grade
 * Handles invalid input gracefully
-* 
+
 🛠️ Technologies Used:
 * Python 🐍
 * Google Colab
